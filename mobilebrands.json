@@ -1,0 +1,62 @@
+[
+    {
+        "mobile_name": "apple",
+        "product": "watch",
+        "branches": "india",
+        "prices": 7000
+    },
+    {
+        "mobile_name": "redmi",
+        "product": "watch",
+        "branches": "italy ",
+        "prices": 9000
+    },
+    {
+        "mobile_name": "realme",
+        "product": "mobile",
+        "branches": "canada",
+        "prices": 7000
+    },
+    {
+        "mobile_name": "vivo",
+        "product": "mobile",
+        "branches": "italy ",
+        "prices": 6000
+    },
+    {
+        "mobile_name": "sony",
+        "product": "airpods",
+        "branches": "usa ",
+        "prices": 6000
+    },
+    {
+        "mobile_name": "nokia",
+        "product": "mobile",
+        "branches": "australia",
+        "prices": 6000
+    },
+    {
+        "mobile_name": "samsung",
+        "product": "airpods",
+        "branches": "canada",
+        "prices": 5000
+    },
+    {
+        "mobile_name": "galaxy",
+        "product": "watch",
+        "branches": "china",
+        "prices": 7000
+    },
+    {
+        "mobile_name": "honor",
+        "product": "tab",
+        "branches": "china",
+        "prices": 9000
+    },
+    {
+        "mobile_name": "cool pad",
+        "product": "laptop",
+        "branches": "india",
+        "prices": 8000
+    }
+]
