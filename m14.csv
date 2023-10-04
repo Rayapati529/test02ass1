@@ -1,0 +1,10 @@
+warehouse_num,sku,description,product_name
+101,10001,'android','realme'
+102,10002,'android','vivo'
+103,10003,'android','samsung'
+104,10004,'android','galaxy'
+104,10005,'ios','iphone'
+106,10006,'android','appo'
+104,10007,'android','nokia'
+108,10008,'android','oneplus'
+109,10009,'android','google'
